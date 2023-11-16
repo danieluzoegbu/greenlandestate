@@ -18,7 +18,7 @@ export default function Component() {
         <link rel="icon" href="/logo.png" />
       </Head>
       <div className="text-center h-screen justify-center items-center">
-        <h3> Welcom {session.user.name}</h3>
+        <h3> Welcome</h3>
         <h1>DASHBOARD STILL UNDER CONSTRUCTION.</h1>
       </div>
     </>
